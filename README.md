@@ -1,7 +1,7 @@
 # Application Development and Emerging Technologies
 
 ## My Favorite Series
-* **Title:** [One Piece]([https://www.example.com](https://en.wikipedia.org/wiki/One_Piece)
+* **Title:** [One Piece](https://en.wikipedia.org/wiki/One_Piece)
 * **Author:** Echiro Oda
 * **Published** July 1997
 * **Released:** October 1999
