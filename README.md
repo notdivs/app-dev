@@ -1,7 +1,8 @@
-# My Mind's Odyssey: **Inception**
+# Application Development and Emerging Technologies
 
-## Unveiling the Dream Realm
-* **Title:** Inception
-* **Maestro of Dreams:** Christopher Nolan
-* **Unleashed:** July 8, 2010
-* **Genre:** Sci-Fi, Action, Thriller
+## My Favorite Series
+* **Title:** [One Piece]([https://www.example.com](https://en.wikipedia.org/wiki/One_Piece)
+* **Author:** Echiro Oda
+* **Published** July 1997
+* **Released:** October 1999
+* **Genre:** Adventure, Science fantasy
